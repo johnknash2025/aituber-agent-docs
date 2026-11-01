@@ -1,5 +1,7 @@
 # AITuber Agent
 
+English | [日本語](README.ja.md)
+
 > Hobby project; working name.
 
 **One line:** an AI co-host for live streams: it reads YouTube Live chat, writes a reply with a local language model, shows it on screen through OBS, and speaks it with a voice synthesizer.
