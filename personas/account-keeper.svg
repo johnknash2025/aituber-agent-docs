@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="KAORI, the account keeper">
+  <rect width="48" height="48" fill="#f3ede2"/>
+  <circle cx="24" cy="18" r="9" fill="#2f3a4a"/>
+  <path d="M15 16a9 9 0 0 1 18 0v3a9 9 0 0 1-9-4 9 9 0 0 1-9 4z" fill="#1c2531"/>
+  <rect x="13" y="27" width="22" height="18" rx="3" fill="#5b6b7a"/>
+  <rect x="20" y="27" width="8" height="18" fill="#cbb689"/>
+  <rect x="18" y="31" width="12" height="9" rx="1" fill="#fbf7ef"/>
+  <path d="M18 34h12M18 37h12" stroke="#9a9a9a" stroke-width="1"/>
+  <rect x="30" y="40" width="5" height="4" rx="1" fill="#b23b3b"/>
+  <circle cx="21" cy="18" r="1.4" fill="#fbf7ef"/>
+  <circle cx="27" cy="18" r="1.4" fill="#fbf7ef"/>
+</svg>

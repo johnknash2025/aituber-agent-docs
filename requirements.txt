@@ -1,0 +1,11 @@
+# Core dependency of the persona front desk (window/, run_window.py).
+requests>=2.31
+
+# Test runner for the suite in tests/ (python3 -m pytest tests/). It is a runtime-free
+# tool used only to run the tests; the desk itself never imports it.
+pytest>=8.0
+
+# Optional extras for --mic capture and real VOICEVOX playback are a separate
+# install so the base stays small: pip install -r requirements-mic.txt
+# Without them window.asr and window.tts say what is missing instead of crashing;
+# --demo, --text, --once and --tts print never need them.

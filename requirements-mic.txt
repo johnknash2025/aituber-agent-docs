@@ -1,0 +1,8 @@
+# Optional extras for --mic capture and real VOICEVOX playback.
+# Install with: pip install -r requirements-mic.txt
+# The offline demo, --text, --once and --tts print work without these; window.asr
+# and window.tts import these modules lazily and say what is missing instead of
+# crashing when they are absent.
+numpy>=1.24
+sounddevice>=0.4.6
+vosk>=0.3.45
